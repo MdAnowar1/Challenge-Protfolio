@@ -117,3 +117,10 @@ section{
 .small2{
     margin-right: 30%;
 }
+.finish{
+    background-color: black;
+    text-align: center;
+}
+.finish2{
+    color: white;
+}
