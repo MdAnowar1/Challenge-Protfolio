@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 h1{
     font-size: 50px;
@@ -96,5 +97,6 @@ section{
     border-radius: 5px;
 }
 .image{
-    background-image: url(images/shape-1.png);
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
 }
