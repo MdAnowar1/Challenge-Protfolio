@@ -3,7 +3,7 @@ body{
 }
 h1{
     font-size: 50px;
-}
+    }
 .frist-color{
     color: orange;
 }
@@ -31,4 +31,47 @@ section{
 .third-one{
     width: 50%;
     padding: 3px;
+}
+.try-border{
+    border-left: 5PX solid;
+    border-color: orange;
+}
+.tex-center{
+    text-align: center;
+}
+.Shaddo-box{
+    box-shadow: 10px 5px 5px;
+}
+.img{
+    height: 300px;
+}
+.different{
+    box-shadow: 20px 20px 40px;
+    width: 40%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.uniquic{
+    box-shadow: 20px 20px 40px;
+    width: 40%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.final{
+    box-shadow: 20px 20px 40px;
+    width: 40%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding-left: 20px;
+    padding-right: 20px;
 }
