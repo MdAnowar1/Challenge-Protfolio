@@ -4,6 +4,12 @@ body{
 h1{
     font-size: 50px;
     }
+    h2{
+        font-size: 40px;
+    }
+    h3{
+        font-size: 20px;
+    }
 .frist-color{
     color: orange;
 }
@@ -39,9 +45,6 @@ section{
 .tex-center{
     text-align: center;
 }
-.Shaddo-box{
-    box-shadow: 10px 5px 5px;
-}
 .img{
     height: 300px;
 }
@@ -74,4 +77,24 @@ section{
     margin-bottom: 5%;
     padding-left: 20px;
     padding-right: 20px;
+}
+.size{
+    width: 70%;
+    margin-left: 10%;
+    margin-right: 20%;
+}
+.odd{
+    width: 90%;
+    margin-left: 20%;
+}
+.link-button2{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato) ;
+    padding: 10px 40px;
+    color: white;
+    font-weight: 600;
+    border-radius: 5px;
+}
+.image{
+    background-image: url(images/shape-1.png);
 }
