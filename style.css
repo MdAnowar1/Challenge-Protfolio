@@ -100,3 +100,20 @@ section{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
 }
+.change{
+    width: 70%;
+    margin-top: 15%;
+    margin-left: 5%;
+}
+.change2{
+    width: 40%;
+   margin-left: 30%;
+    margin-top: 30%;
+}
+.small{
+    width: 40%;
+    margin-left: 50%;
+}
+.small2{
+    margin-right: 30%;
+}
